@@ -30,7 +30,7 @@ This framework demonstrates API testing using **Swagger PetStore** as the sample
 
 ### Clone the repository
 
-git clone https://github.com/your-username/api-automation-framework.git
+git clone https://github.com/solunke816/API_Framwork.git
 
 📊 Reports
 
