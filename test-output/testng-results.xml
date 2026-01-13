@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-13T11:20:28 IST" name="Default suite" finished-at="2026-01-13T11:20:40 IST" duration-ms="11157">
+    <groups>
+    </groups>
+    <test started-at="2026-01-13T11:20:28 IST" name="Default test" finished-at="2026-01-13T11:20:40 IST" duration-ms="11157">
+      <class name="test.UserTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.UserTest@6892b3b6]" started-at="2026-01-13T11:20:28 IST" name="setup" finished-at="2026-01-13T11:20:29 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testpost()[pri:1, instance:test.UserTest@6892b3b6]" started-at="2026-01-13T11:20:29 IST" name="testpost" finished-at="2026-01-13T11:20:32 IST" duration-ms="3600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpost -->
+        <test-method signature="testGetuserByName()[pri:2, instance:test.UserTest@6892b3b6]" started-at="2026-01-13T11:20:32 IST" name="testGetuserByName" finished-at="2026-01-13T11:20:34 IST" duration-ms="1632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetuserByName -->
+        <test-method signature="testUpdateByname()[pri:3, instance:test.UserTest@6892b3b6]" started-at="2026-01-13T11:20:34 IST" name="testUpdateByname" finished-at="2026-01-13T11:20:35 IST" duration-ms="1424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateByname -->
+        <test-method signature="testDeletbByname()[pri:4, instance:test.UserTest@6892b3b6]" started-at="2026-01-13T11:20:35 IST" name="testDeletbByname" finished-at="2026-01-13T11:20:40 IST" duration-ms="4090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeletbByname -->
+      </class> <!-- test.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
