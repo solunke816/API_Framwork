@@ -25,8 +25,13 @@ public class Route{
 	public static String delete_url=base_url+"/user/{username}";
 
     //Store Module
+	public static String post_store_url=base_url+"/store/order";
 	
-   
+	public static String get_inventory=base_url+"/store/inventory";
+	
+	public static String get_order=base_url+"/store/order/{orderId}";
+	
+	public static String delete_order=base_url+"/store/order/{orderId}";
 	//Pet Module
 	
 }
